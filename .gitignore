@@ -1,0 +1,41 @@
+# Miscellaneous
+.DS_Store
+*.log
+*.pot
+*.pyc
+
+# Created by .ignore support
+.idea
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Android related
+android/key.properties
+android/local.properties
+android/.gradle/
+
+# iOS related
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/engine.podspec
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Runner.xcworkspace/xcshareddata/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcshareddata/
+
+# Windows related
+windows/flutter/ephemeral/
+windows/flutter/generated_*.h
+windows/flutter/generated_*.cc
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/Profile/
+windows/runner/GeneratedPluginRegistrant.h
+windows/runner/GeneratedPluginRegistrant.cc
